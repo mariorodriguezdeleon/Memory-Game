@@ -1,0 +1,15 @@
+.wrapper {
+    background: rgb(255, 219, 88);
+    background-image: url('./bob-bob-s-burgers-12489-1680x1050.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 250px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
